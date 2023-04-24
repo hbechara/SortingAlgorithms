@@ -2,7 +2,7 @@
 
 ## Assignment:
 
-Rewrite Radix Sort to recursively call RadixSort() instead of countingSort() as its sorting algorithm.
+Rewrite Bucket Sort to recursively call Bucket() instead of sort() as its sorting algorithm.
 
 * You may use the code provided in this repository as a starting point.
 * You may choose to edit radix.py or copy the contents into a new file. either way, let me know which is your final submission.
